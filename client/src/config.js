@@ -1,1 +1,1 @@
-export const API_URL = `http://localhost:5000/`
+export const API_URL = `https://quiet-tundra-76808.herokuapp.com/`
